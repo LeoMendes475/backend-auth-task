@@ -93,4 +93,5 @@ Antes de começar, certifique-se de ter instalado:
 Adicione aqui o link para os repositórios do Postman com as requisições da API.
 
 [🔗 Coleção do Postman]([#](https://www.postman.com/aviation-geoscientist-6898586/workspace/backend-interview-task/collection/27038375-aafc7135-1ded-4307-8d9c-a95d91775a53?action=share&creator=27038375&active-environment=27038375-7446c609-05bc-4fcc-830f-c77e553cdee9))
+https://www.postman.com/aviation-geoscientist-6898586/workspace/backend-interview-task/collection/27038375-aafc7135-1ded-4307-8d9c-a95d91775a53?action=share&creator=27038375&active-environment=27038375-7446c609-05bc-4fcc-830f-c77e553cdee9
 
