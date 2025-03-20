@@ -38,7 +38,7 @@ Antes de começar, certifique-se de ter instalado:
 1. Clone o repositório e acesse a pasta do projeto:
 
    ```sh
-   git clone https://github.com/seu-usuario/backend-interview-task.git
+   git clone https://github.com/LeoMendes475/backend-interview-task.git
    cd backend-interview-task
    ```
 
