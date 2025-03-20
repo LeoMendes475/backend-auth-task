@@ -1,6 +1,6 @@
 # Backend Interview Task
 
-Este projeto é um backend desenvolvido com Node.js, Koa.js, TypeORM e PostgreSQL seguindo os princípios da Clean Architecture.
+Este projeto é um backend desenvolvido com Node.js, Koa.js, TypeORM, PostgreSQL e o AWS Cognito seguindo os princípios da Clean Architecture.
 
 ## Requisitos
 
