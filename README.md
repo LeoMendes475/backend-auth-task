@@ -1,4 +1,4 @@
-# Backend Interview Task
+# Backend Auth Task
 
 Este projeto é um backend desenvolvido com Node.js, Koa.js, TypeORM, PostgreSQL e o AWS Cognito seguindo os princípios da Clean Architecture.
 
